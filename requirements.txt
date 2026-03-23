@@ -1,6 +1,0 @@
-streamlit
-geopandas
-leafmap
-streamlit-folium
-fiona
-pyarrow
